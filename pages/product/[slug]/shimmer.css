@@ -1,0 +1,10 @@
+.shimmer {
+  background: #e2dddd;
+  animation: fullView 1.5s forwards linear infinite;
+}
+
+@keyframes fullView {
+  100% {
+    background-color: transparent;
+  }
+}

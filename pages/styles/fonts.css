@@ -1,0 +1,26 @@
+@font-face {
+  font-family: "Mirage";
+  src: url("/fonts/mirage-normal.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Mirage";
+  src: url("/fonts/mirage-Bold.ttf") format("truetype");
+  font-weight: bold;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Mirage";
+  src: url("/fonts/mirage-mid.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Mirage";
+  src: url("/fonts/mirage-thin.ttf") format("truetype");
+  font-weight: lighter;
+  font-style: normal;
+}

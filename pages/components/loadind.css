@@ -1,0 +1,27 @@
+.br {
+  border-radius: 8px;
+}
+
+.card {
+  overflow: hidden;
+  border: 2px solid #fff;
+  box-shadow: 0px 0px 10px 0 #a9a9a9;
+}
+.profilePic {
+  background: #777;
+  animation: fullView 1.5s forwards linear infinite;
+}
+.comment {
+  background: #777;
+  margin-top: 20px;
+  animation: fullView 1.5s forwards linear infinite;
+}
+.wrapper {
+  width: 100%;
+}
+
+@keyframes fullView {
+  100% {
+    background-color: transparent;
+  }
+}
